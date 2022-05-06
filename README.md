@@ -63,3 +63,9 @@ This dataset Contains 278,858 users (anonymized but with demographic information
  3. Matplotlib 
  4. Seaborn
  5. Scikit-Learn
+
+#
+**References:** 
+1. https://www.analyticssteps.com/blogs/what-are-recommendation-systems-machine-learning
+
+3. https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
