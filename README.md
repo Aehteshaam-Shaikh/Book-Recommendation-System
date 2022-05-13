@@ -64,6 +64,18 @@ This dataset Contains 278,858 users (anonymized but with demographic information
  4. Seaborn
  5. Scikit-Learn
 
+**Execution Instructions**
+
+1. To run on your local system:
+
+* Step I: Use this command to install required libraries: pip install -r requirements.txt
+
+* Step II: After it run the ipynb file using any IDE on your local system.
+
+
+2. You can directly run the ipynb file on google colab.
+
+
 #
 **References:** 
 1. https://www.analyticssteps.com/blogs/what-are-recommendation-systems-machine-learning
